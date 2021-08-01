@@ -30,7 +30,7 @@
 }
 .header {
   background-color: #1d1d1d;
-  color: wheat;
+  color: white;
   text-align: center;
 }
 .input {
@@ -47,6 +47,7 @@
 }
 .reset-btn {
   width: 98px;
+  border: black;
 }
 .container {
   padding-top: 100px;
