@@ -2,7 +2,7 @@ import {React, useState, useEffect} from 'react'
 
 function Header({search, setQuery}) {
 
-    const [show, handleShow] = useState(false) 
+    const [, handleShow] = useState(false) 
 
     useEffect(()=>{
         window.addEventListener("scroll",()=>{
